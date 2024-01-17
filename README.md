@@ -19,4 +19,5 @@ También he creado una página web personal que muestra mi portafolio, mi experi
 Stack de Tecnologías🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=bash,js,html,css)](https://skillicons.dev)
+
 ¡Gracias por visitar mi perfil! Espero que disfruten explorando mi trabajo 👀
