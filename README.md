@@ -1,10 +1,12 @@
-# Hola, Soy Mateo Lizcano Software Developer.
+# Hola, Soy **Mateo Lizcano** Software Developer.
 
 ## ¿Quién soy yo? 🌟
 
-Soy Mateo Lizcano, un apasionado en el mundo de la ciberseguridad, actualmente estoy aprendiendo de diversas tecnologias para capacitarme mas en esta area que me encanta 💖.
+### Soy Mateo Lizcano, un apasionado en el mundo de la ciberseguridad, actualmente estoy aprendiendo de diversas tecnologias para capacitarme mas en esta area que me encanta 💖.
+
 Actualmente, estoy buscando convertirme en un desarrollador full stack para ampliar mis habilidades y contribuir de manera integral a proyectos emocionantes.
 Trayectoria 🚀
+
 He trabajado en diversos proyectos de desarrollo web, destacándome en la implementación de soluciones frontend utilizando HTML, CSS, JavaScript y React.
 Actualmente estoy cerrando pensum en ingeniería en sistemas.
 Objetivos y Metas 🎯
