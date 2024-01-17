@@ -20,6 +20,6 @@ He trabajado en proyectos como un app buscador de gif 📷 una aplicación escal
 También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
 Stack de Tecnologías🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,react,python,tailwind,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,react,python,tailwind,linux,django,chakra,vite)](https://skillicons.dev)
 
 "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
