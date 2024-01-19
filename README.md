@@ -2,7 +2,7 @@
 
 ## ¿Quién soy yo? 🌟
 
-### Soy Mateo Lizcano, un apasionado en el mundo de la ciberseguridad, actualmente estoy aprendiendo de diversas tecnologias para capacitarme mas en esta area que me encanta 💖.
+### Soy Mateo Lizcano, un apasionado en el 🌐mundo de la ciberseguridad🔏, actualmente estoy aprendiendo de diversas tecnologías para capacitarme más en esta área que me encanta 💖.
 
 Actualmente, estoy buscando convertirme en un desarrollador full stack para ampliar mis habilidades y contribuir de manera integral a proyectos emocionantes.
 Trayectoria 🚀
