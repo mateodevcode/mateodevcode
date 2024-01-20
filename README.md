@@ -2,29 +2,30 @@
 
 ## ¿Quién soy yo? 🌟
 
-### Soy Mateo Lizcano, un apasionado en el 🌐mundo de la ciberseguridad🔏, actualmente estoy aprendiendo de diversas tecnologías para capacitarme más en esta área que me encanta 💖.
+### Soy Mateo Lizcano, un apasionado en el 🌐 mundo de la ciberseguridad 🔏, actualmente estoy aprendiendo de diversas tecnologías para capacitarme más en esta área que me encanta 💖.
 
-Actualmente, estoy buscando convertirme en un desarrollador full stack para ampliar mis habilidades y contribuir de manera integral a proyectos emocionantes.
-Trayectoria 🚀
+### Estoy buscando convertirme en un desarrollador full stack para ampliar mis habilidades y contribuir de manera integral a proyectos emocionantes.
 
-He trabajado en diversos proyectos de desarrollo web, destacándome en la implementación de soluciones frontend utilizando HTML, CSS, JavaScript y React.
+## Trayectoria 🚀
 
-Actualmente estoy cerrando pensum en ingeniería en sistemas.
+### He trabajado en la industria de la manufactura y ver como todo el proceso de digitalización hizo un gran avance en esa empresa, me motivo a seguir aprendiendo y avanzando en mi carrera profesional, empecé por automatización en Python y rápidamente me pase al área de programación, desde entonces de forma autodidacta intento capacitarme e ir aprendiendo un poco de varias ramas para integrar todos estos conocimientos en la rama que me encanta que es la ciberseguridad.
 
-Objetivos y Metas 🎯
-Estoy decidido a expandir mi conjunto de habilidades para convertirme en un desarrollador full stack, explorando tecnologías como Node.js, Express y bases de datos.
-Mi objetivo es trabajar en proyectos desafiantes que me permitan aplicar mis habilidades tanto en el frontend como en el backend, contribuyendo al crecimiento de la empresa y aprendiendo constantemente.
+### Actualmente, estoy profesional en Negocios Internacionales y estoy cursando un MBA en España, y adicionalmente estoy en una certificación en la rama de backend con la empresa Oracle.
 
-Intereses y Contribuciones 🌐
-Me apasiona el desarrollo web y la creación de interfaces atractivas y funcionales. Mi interés especial radica en la implementación de soluciones frontend innovadoras.
-Contribuyo a la comunidad mediante la creación de proyectos escalables. Disfruto compartiendo mis conocimientos y colaborando en iniciativas que promueven el aprendizaje mutuo.
+## Objetivos y Metas 🎯
+### Estoy enfocado en ampliar mis habilidades de desarrollador para luego ingresar de lleno al área de la ciberseguridad. Para este 2024 planeo convertirme en backend y complementarme con mis conocimientos en frontend como un desarrollador de software completo.
 
-Proyectos Destacados 🚧
-He trabajado en proyectos como un app buscador de gif 📷 una aplicación escalable que proporciona información de imágenes en tiempo real utilizando APIs externas, demostrando mi capacidad para desarrollar soluciones frontend robustas.
+## Intereses y contribuciones 🌐
+### Estoy buscando ganar una muy buena experiencia en estas áreas para desarrollar más mis habilidades y reforzar mis conocimientos.
 
-También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
-Stack de Tecnologías🛠️
+## Proyectos Destacados 🚧
+### He realizado varios proyectos personales donde intento solidificar mis skills y crear esa destreza en el área del desarrollo.
+### Pueden visitarlos en mi perfil, algunos son propios de mi autoría, otros son proyectos que hice mediante mi aprendizaje autodidacta.
+
+### También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
+[rockaksus.mateodev.com](https://mateodev.rockasus.com/)
+## Stack de Tecnologías🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,react,vite,tailwind,python,linux,django,bootstrap,nodejs,mongodb,powershell,spring,java,stackoverflow,vscode,git,firebase,express,)](https://skillicons.dev)
 
-"¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
+### "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
