@@ -26,7 +26,9 @@
 [rockaksus.mateodev.com](https://mateodev.rockasus.com/)
 ## Stack de Tecnologías🛠️
 
-# * Backend
+# <ul>
+<li>Bird</li>
+</ul>
 
 
 
