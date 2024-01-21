@@ -27,7 +27,7 @@
 ## Stack de Tecnologías🛠️
 
 ## <li>Backend</li>
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,nextjs,python,django,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,nextjs,python,django,bash,powershell,java,spring,)](https://skillicons.dev)
 
 ## <li>Frontend</li>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,python,tailwind,bootstrap,materialui)](https://skillicons.dev)
@@ -38,6 +38,6 @@
 ## <li>Cloud Servers</li>
 [![My Skills](https://skillicons.dev/icons?i=firebase,aws,azure)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,react,vite,tailwind,python,linux,django,bootstrap,nodejs,mongodb,powershell,spring,java,stackoverflow,vscode,git,,express,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,powershell,stackoverflow,vscode,git,)](https://skillicons.dev)
 
 ### "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
