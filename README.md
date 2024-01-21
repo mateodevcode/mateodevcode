@@ -26,8 +26,8 @@
 [rockaksus.mateodev.com](https://mateodev.rockasus.com/)
 ## Stack de Tecnologías🛠️
 
-# Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,)](https://skillicons.dev)
+# <li>Backend</li>
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,nextjs,python,django,bash,powershell)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,react,vite,tailwind,python,linux,django,bootstrap,nodejs,mongodb,powershell,spring,java,stackoverflow,vscode,git,firebase,express,)](https://skillicons.dev)
 
