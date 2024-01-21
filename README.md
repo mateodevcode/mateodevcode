@@ -29,6 +29,9 @@
 # <li>Backend</li>
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,nextjs,python,django,bash,powershell)](https://skillicons.dev)
 
+# <li>Frontend</li>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,python,tailwind,bootstrap,materialui)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,react,vite,tailwind,python,linux,django,bootstrap,nodejs,mongodb,powershell,spring,java,stackoverflow,vscode,git,firebase,express,)](https://skillicons.dev)
 
 ### "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
