@@ -38,6 +38,7 @@
 ## <li>Cloud Servers</li>
 [![My Skills](https://skillicons.dev/icons?i=firebase,aws,azure)](https://skillicons.dev)
 
+## <li>Tools</li>
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,powershell,stackoverflow,vscode,git,)](https://skillicons.dev)
 
 ### "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
