@@ -26,6 +26,10 @@
 [rockaksus.mateodev.com](https://mateodev.rockasus.com/)
 ## Stack de Tecnologías🛠️
 
+# * Backend
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,react,vite,tailwind,python,linux,django,bootstrap,nodejs,mongodb,powershell,spring,java,stackoverflow,vscode,git,firebase,express,)](https://skillicons.dev)
 
 ### "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
