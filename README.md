@@ -26,10 +26,7 @@
 [rockaksus.mateodev.com](https://mateodev.rockasus.com/)
 ## Stack de Tecnologías🛠️
 
-# <ul>
-<li>Bird</li>
-</ul>
-
+# <li>Backend</li>
 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,react,vite,tailwind,python,linux,django,bootstrap,nodejs,mongodb,powershell,spring,java,stackoverflow,vscode,git,firebase,express,)](https://skillicons.dev)
