@@ -41,4 +41,8 @@
 ## <li>Tools</li>
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,powershell,stackoverflow,vscode,git,discord,github,)](https://skillicons.dev)
 
+
+![image](https://github.com/mateodevcode/mateodevcode/assets/149150878/aa2ca1a8-6fc5-455a-89d2-509cd6246947)
+
+
 ### "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
