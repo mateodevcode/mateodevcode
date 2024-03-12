@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,sql)](https://skillicons.dev)
 
 ## <li>Cloud Servers</li>
-[![My Skills](https://skillicons.dev/icons?i=firebase,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,aws)](https://skillicons.dev)
 
 ## <li>Tools</li>
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,powershell,stackoverflow,vscode,git,discord,github,)](https://skillicons.dev)
@@ -27,7 +27,7 @@
 
 ### He trabajado en la industria de la manufactura y ver como todo el proceso de digitalización hizo un gran avance en esa empresa, me motivo a seguir aprendiendo y avanzando en mi carrera profesional, empecé por automatización en Python y rápidamente me pase al área de programación, desde entonces de forma autodidacta intento capacitarme e ir aprendiendo un poco de varias ramas para integrar todos estos conocimientos en la rama que me encanta que es la ciberseguridad.
 
-### Actualmente, soy profesional en Negocios Internacionales y estoy cursando un MBA en España, y adicionalmente estoy en una certificación en la rama de backend con la empresa Oracle.
+### Soy profesional en Negocios Internacionales y estoy cursando un MBA en España, y adicionalmente estoy en una certificación en la rama de backend con la empresa Oracle.
 
 ## Objetivos y Metas 🎯
 ### Estoy enfocado en ampliar mis habilidades de desarrollador para luego ingresar de lleno al área de la ciberseguridad. Para este 2024 planeo convertirme en backend y complementarme con mis conocimientos en frontend como un desarrollador de software completo.
