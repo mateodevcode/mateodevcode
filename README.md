@@ -44,6 +44,6 @@
 ![image](https://github.com/mateodevcode/mateodevcode/assets/149150878/64df1207-3af3-4f75-afc4-cd2a15ea23a0)
 
 
-[rockaksus.mateodev.com](https://mateodev.rockasus.com/)
+[rockaksus.mateodev.com](https://mateodevcode.github.io/mateodev/)
 
 ### "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
