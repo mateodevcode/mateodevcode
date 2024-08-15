@@ -9,7 +9,7 @@
 ## Stack de Tecnologías🛠️
 
 ## <li>Backend</li>
-[![My Skills](https://skillicons.dev/icons?i=,nodejs,express,nextjs,python,django,bash,powershell,java,spring,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,python,django,bash,powershell,java,spring,)](https://skillicons.dev)
 
 ## <li>Frontend</li>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,python,tailwind,bootstrap,materialui)](https://skillicons.dev)
