@@ -31,10 +31,8 @@
 ### Soy profesional en Negocios Internacionales, con un MBA en dirección y administración de empresas, un bootcamp en Ciberseguridad en RedTeam y adicional me he formado de forma autodidacta en el Frontend y desarrolle un curso de backend en Alura Latam conjunto con Oracle.
 
 ## Objetivos y Metas 🎯
-### Estoy enfocado en seguir ampliando mis habilidades de desarrollador para implementarlo en el área de la ciberseguridad. Para este 2024 planeo convertirme en backend y complementarme con mis conocimientos en frontend como un desarrollador de software completo.
+### Estoy enfocado en seguir ampliando mis habilidades de desarrollador para implementarlo en el área de la ciberseguridad.
 
-## Intereses y contribuciones 🌐
-### Estoy buscando ganar una muy buena experiencia en estas áreas para desarrollar más mis habilidades y reforzar mis conocimientos.
 
 ## Proyectos Destacados 🚧
 ### He realizado varios proyectos personales donde intento solidificar mis skills y crear esa destreza en el área del desarrollo.
