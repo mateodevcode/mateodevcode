@@ -1,5 +1,6 @@
 # Hola, Soy **Mateo Lizcano** Software Developer.
-[![image](https://github.com/user-attachments/assets/94a8c134-a465-4be0-af87-273bbdb8e6f5)](https://mateo-lizcano-noriega.vercel.app/)
+[![image](https://github.com/user-attachments/assets/d284dcaa-4660-4c75-ab31-74bb7cfe80ac)](https://mateosln.vercel.app/)
+
 
 ## ¿Quién soy yo? 🌟
 
@@ -40,9 +41,9 @@
 
 ### También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
 
-[![image](https://github.com/user-attachments/assets/75026023-64c9-474b-8fa7-c0843a272d79)](https://mateo-lizcano-noriega.vercel.app/sobre-mi)
+[![image](https://github.com/user-attachments/assets/40913b26-7cc7-44fd-924e-5d9ec100c234)](https://mateo-lizcano-noriega.vercel.app/)
 
 
-[Mateo Lizcano Noriega](https://mateo-lizcano-noriega.vercel.app/)
+[Mateo Lizcano Noriega](https://mateosln.vercel.app/)
 
 ### "¡Gracias por visitar mi perfil! Espero con entusiasmo trabajar juntos y seguir contribuyendo a esta comunidad."
