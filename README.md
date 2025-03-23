@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,python,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 ## <li>Database</li>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,postgres)](https://skillicons.dev)
 
 ## <li>Cloud Servers</li>
 [![My Skills](https://skillicons.dev/icons?i=firebase,aws)](https://skillicons.dev)
