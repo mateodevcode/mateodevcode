@@ -41,7 +41,7 @@
 
 ### También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
 
-[![image](https://github.com/user-attachments/assets/40913b26-7cc7-44fd-924e-5d9ec100c234)](https://mateo-lizcano-noriega.vercel.app/)
+[![image](https://github.com/user-attachments/assets/936a2c20-81c7-4570-ac2b-1d647bc0d961)](https://mateo-lizcano-noriega.vercel.app/)
 
 
 [Mateo Lizcano Noriega](https://mateosln.vercel.app/)
