@@ -4,7 +4,7 @@
 
 ## ¿Quién soy yo? 🌟
 
-### Soy Mateo Lizcano, un apasionado en el 🌐 mundo de la ciberseguridad 🔏, actualmente estoy aprendiendo de diversas tecnologías para capacitarme más en esta área que me encanta 💖.
+### Soy Mateo Lizcano, un apasionado en el 🌐 mundo de la ciberseguridad 🔏.
 
 ## Stack de Tecnologías🛠️
 
