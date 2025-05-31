@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,python,fastapi,django,bash,powershell,java,spring,)](https://skillicons.dev)
 
 ## <li>Frontend</li>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,python,tailwind,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,python,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 ## <li>Database</li>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,postgres)](https://skillicons.dev)
