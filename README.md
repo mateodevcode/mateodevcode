@@ -6,8 +6,6 @@
 
 ### Soy Mateo Lizcano, un apasionado en el 🌐 mundo de la ciberseguridad 🔏, actualmente estoy aprendiendo de diversas tecnologías para capacitarme más en esta área que me encanta 💖.
 
-### Estoy buscando convertirme en un desarrollador full stack para ampliar mis habilidades y contribuir de manera integral a proyectos emocionantes.
-
 ## Stack de Tecnologías🛠️
 
 ## <li>Backend</li>
@@ -27,9 +25,9 @@
 
 ## Trayectoria 🚀
 
-### He trabajado en la industria de la manufactura y ver como todo el proceso de digitalización hizo un gran avance en esa empresa, me motivo a seguir aprendiendo y avanzando en mi carrera profesional, empecé por automatización en Python y rápidamente me pase al área de programación, desde entonces de forma autodidacta intento capacitarme e ir aprendiendo un poco de varias ramas para integrar todos estos conocimientos en la rama que me encanta que es la ciberseguridad.
+### He trabajado en la industria de la manufactura y ver como todo el proceso de digitalización hizo un gran avance en esa empresa, me motivo a seguir aprendiendo y avanzando en mi carrera profesional, empecé por automatización en Python y rápidamente me pase al área de programación, desde entonces sigo capacitanfome para ir aprendiendo un poco de varias ramas para integrar todos estos conocimientos en la rama que me encanta que es la ciberseguridad.
 
-### Soy profesional en Negocios Internacionales, con un MBA en dirección y administración de empresas, un bootcamp en Ciberseguridad en RedTeam y adicional me he formado de forma autodidacta en el Frontend y desarrolle un curso de backend en Alura Latam conjunto con Oracle.
+### Soy profesional en Negocios Internacionales, con un MBA en dirección y administración de empresas, un bootcamp en Ciberseguridad en RedTeam y adicional me he formado en el Frontend y backend en Alura Latam conjunto con Oracle.
 
 ## Objetivos y Metas 🎯
 ### Estoy enfocado en seguir ampliando mis habilidades de desarrollador para implementarlo en el área de la ciberseguridad.
