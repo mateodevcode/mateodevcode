@@ -34,8 +34,7 @@
 
 
 ## Proyectos Destacados 🚧
-### He realizado varios proyectos personales donde intento solidificar mis skills y crear esa destreza en el área del desarrollo.
-### Pueden visitarlos en mi perfil, algunos son propios de mi autoría, otros son proyectos que hice mediante mi aprendizaje autodidacta.
+### He realizado varios proyectos personales donde intento solidificar mis skills.
 
 ### También he creado una página web personal que muestra mi portafolio, mi experiencia y mis habilidades, utilizando Tailwind CSS para darle un diseño moderno y profesional.
 
